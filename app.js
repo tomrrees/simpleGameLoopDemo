@@ -3,8 +3,10 @@
 let gameState = {
   currentScore: 0,
   goal: 10,
-  gameStatus: 'playing',
-}
+  gameStatus: "playing",
+};
+
+console.log("Hello");
 
 // * Write functions to manipulate gameState -> Maybe even a method?
 
